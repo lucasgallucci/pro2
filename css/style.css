@@ -1,0 +1,65 @@
+.contenedor{
+	max-width: 800px;
+	margin: auto;
+}
+
+.menu{
+	background-color: yellow; 
+}
+
+.menu ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+
+.menu ul{
+	float: right;
+}
+
+header{
+	background: cyan;
+	text-align: center;
+	padding: 100px 0;
+}
+
+.info1 article{
+	display: inline-block;
+	width: 49%;
+}
+
+.social{
+	text-align: center;
+	padding: 0;
+}
+
+.social li{
+	display: inline-block;
+}
+
+.social li span{
+	color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 5px;
+    box-sizing: border-box;
+}
+
+.facebook{
+	background-color: blue;
+}
+
+.twitter{
+	background-color: cyan;
+}
+
+.pinterest{
+	background-color: red;
+}
+
+
+
+
